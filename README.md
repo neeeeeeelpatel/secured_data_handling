@@ -1,6 +1,10 @@
-# Secure Data Storage System
+# Links for:
+    - Secure data transmission : https://shorturl.at/84BrZ
+    - Creation of digital signatures : https://shorturl.at/A6vdN
 
+# Secure Data Storage System
 A database application that securely stores sensitive user information using AES-256 encryption.
+
 
 ## Overview
 
