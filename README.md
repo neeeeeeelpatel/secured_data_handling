@@ -354,10 +354,3 @@ Decrypted Message: This is a confidential message!
 - Create a graphical user interface
 - Implement secure key exchange protocols
 
-## License
-
-[Specify your license here]
-
-## Contributing
-
-[Instructions for contributing to your project]
